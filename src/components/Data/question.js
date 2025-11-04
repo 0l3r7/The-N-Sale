@@ -21,7 +21,7 @@ export const questions = [
   },
   {
     question: "Who was the first African American woman to win an Olympic gold medal?",
-    options: ["Wilma Rudolph", "Serena Williams", "Althea Gibson", "Florence Griffith Joyner"],
+    options: ["Wilma Rudolph", "Alice Coachman", "Althea Gibson", "Florence Griffith Joyner"],
     answer: "Alice Coachman",
   },
   {

@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [ tailwindcss(),react(),
     
   ],
-  base:"/The-N-Sale."
+  base:"/The-N-Sale/"
 })
